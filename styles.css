@@ -1,0 +1,24 @@
+*{
+    
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+.index_main_heading{
+    text-align: center;
+}
+img{
+    display: block;
+    margin: auto;
+    border: 5px solid rgba(54, 54, 54, 0.9);
+}
+
+body{
+    background-color: rgb(192,192,192);
+}
+.index_ol{
+    font-size: larger;
+    
+}
+.index_ol a{
+    color: black;
+}
